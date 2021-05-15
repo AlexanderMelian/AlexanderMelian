@@ -7,7 +7,7 @@ Computer science degree at [Universidad Nacional Del Oeste](http://www.uno.edu.a
 
 ### Programing:
 
-[Leetcode](https://leetcode.com/AlexanderMelian/) --- [CodeForces](https://codeforces.com/profile/AlexanderMelian)
+[Leetcode](https://leetcode.com/AlexanderMelian/) --- [CodeForces](https://codeforces.com/profile/AlexanderMelian) --- [CSES.fi](https://cses.fi/user/61586/)
 
 ### Languages:
 
