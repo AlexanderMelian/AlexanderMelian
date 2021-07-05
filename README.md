@@ -5,7 +5,7 @@
 
 Computer science degree at [Universidad Nacional Del Oeste](http://www.uno.edu.ar/) Completed: 15% | Average: 5.6
 
-### Programing:
+### Programming:
 
 [Leetcode](https://leetcode.com/AlexanderMelian/) --- [CodeForces](https://codeforces.com/profile/AlexanderMelian) --- [CSES.fi](https://cses.fi/user/61586/)
 
