@@ -14,5 +14,3 @@ Computer science degree at [Universidad Nacional Del Oeste](http://www.uno.edu.a
 <p>Intermediate: C++, Java, Python<p/>
 <p>Beginner: Rust, Go<p/>
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/AlexanderMelian.png" alt="TryHackMe">
