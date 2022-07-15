@@ -1,5 +1,5 @@
 # Alexander Melian
-[Personal Page](https://alexandermelian.github.io/) --- [Linkedin](https://www.linkedin.com/in/alexandermelian/) --- [Youtube](https://www.youtube.com/channel/UCatILYkOh9a72u9QHJXMIkQ) --- [Twitter](https://twitter.com/AlexanderMeli4n)
+[Personal Page](https://alexandermelian.gitlab.io/) --- [Linkedin](https://www.linkedin.com/in/alexandermelian/) --- [Youtube](https://www.youtube.com/channel/UCatILYkOh9a72u9QHJXMIkQ) --- [Twitter](https://twitter.com/AlexanderMeli4n)
 
 ### Student:
 
