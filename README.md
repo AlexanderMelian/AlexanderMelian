@@ -11,6 +11,5 @@ Computer science degree at [Universidad Nacional Del Oeste](http://www.uno.edu.a
 
 ### Languages:
 
-<p>Intermediate: C++, Java, Python<p/>
-<p>Beginner: Rust, Go<p/>
+<p>Go, Rust, Java, Python<p/>
 
